@@ -1,0 +1,21 @@
+html, body {
+    height: 60%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
+}
+
+li{
+    list-style-type:none;
+}
