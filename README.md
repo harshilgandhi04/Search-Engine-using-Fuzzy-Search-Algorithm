@@ -1,3 +1,2 @@
 # fuzzysearch
-
-Simple search engine build using the concepts of prefix search and qgram index
+A simple demontration of how fuzzy string matching algorithm can be used in building Search Engine. It uses concepts of Q-Grams, prefix-search.
